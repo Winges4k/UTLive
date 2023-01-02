@@ -6,6 +6,6 @@ python3 -m pip install requests
 
 cd $(dirname $0)/scripts/
 
-python3 Chanakyaa.py > ../Chanakyaa.m3u8
+python3 Chanakyaa.py > ../aloula.m3u8
 
 echo m3u grabbed
